@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BdPersonasNaturales:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BdPersonasNaturales_jar</output-path>
+    <root id="archive" name="BdPersonasNaturales.jar">
+      <element id="module-output" name="BdPersonasNaturales.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.5/e7fd981408caba8a0c0fb276413562468d260160/log4j-api-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.5/7ed845de1dfe070d43511fab321784e6c4118398/log4j-core-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j-impl/2.5/d1e34a4525e08873703fdaad6c6284f944f8ca8f/log4j-slf4j-impl-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.2/54ebea0a5b653d3c680131e73fe807bb8f78c4ed/commons-collections4-4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.json/json/20140107/d1ffca6e2482b002702c6a576166fd685e3370e3/json-20140107.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi/4.0.0/7ddb9b983ed682c93a986e8bb596d5935b13086c/poi-4.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
